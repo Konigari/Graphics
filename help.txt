@@ -1,0 +1,9 @@
+Controls:
+1. Movement of red buckets is to the left by 'g' and right by 'h'.
+2. Movement of green bucket is to the left by pressing 'j' and right by 'k'
+3.The canon moves up and down by the controls 'f' and 's' respectively.
+4. The canon angle is increased by 'a' and decreased by 'd'
+5.Speed of the falling bricks can be increased by pressing 'n' and decreased by 'm'
+6.Pan using keys 7,8,9 and 0.
+7. Zoom using + and - keys
+8. The canon and brick can also be moved using Mouse.
